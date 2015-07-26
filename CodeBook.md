@@ -10,8 +10,6 @@ Features
 -----------------
 Take a look at the README and the features.txt files in the original dataset to learn more about the feature selection for this dataset. 
 
-
-
 * tBodyAcc-XYZ
 * tGravityAcc-XYZ
 * tBodyAccJerk-XYZ
