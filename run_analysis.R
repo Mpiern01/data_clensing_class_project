@@ -48,3 +48,5 @@ tidy = aggregate(allData, by=list(activity = allData$activity, subject=allData$s
 tidy[,90] = NULL
 tidy[,89] = NULL
 write.table(tidy, "tidy.txt", sep="\t")
+
+#Ending tag Marc Pierne
